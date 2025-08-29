@@ -57,7 +57,32 @@ Requirement Analysis involves several structured activities that ensure the soft
   - Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives.  
   - Prevents misunderstandings and ensures everyone agrees on the defined requirements before moving forward.  
 
-Together, these activities ensure that the development team builds the right product that satisfies both user needs and business objectives.  
+
+
+## Types of Requirements  
+
+In Requirement Analysis, requirements are typically classified into **Functional** and **Non-Functional** requirements. Both types are essential to ensure the system works correctly and meets user expectations.  
+
+### Functional Requirements  
+**Definition:** Functional requirements specify what the system should do — the features, operations, and behaviors that allow users to interact with the system.  
+
+**Examples for a Booking Management System:**  
+- Users can search for available properties based on location, date, and price.  
+- Users can create an account and log in securely.  
+- Users can make, view, and cancel bookings.  
+- Admins can add, update, or remove property listings.  
+- Payment processing and booking confirmation notifications are supported.  
+
+### Non-Functional Requirements  
+**Definition:** Non-functional requirements define **how the system should perform**, including constraints, quality attributes, and performance standards.  
+
+**Examples for a Booking Management System:**  
+- The system should load pages within 2 seconds.  
+- User data must be encrypted and stored securely.  
+- The system should be scalable to handle a large number of simultaneous users.  
+- The platform should be available 99.9% of the time.  
+- The user interface should be responsive and accessible on both desktop and mobile devices.  
+
 
 
 

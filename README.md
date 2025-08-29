@@ -110,5 +110,27 @@ In Requirement Analysis, requirements are typically classified into **Functional
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
+## Acceptance Criteria  
+
+**Acceptance Criteria** are the conditions that a feature or system must meet to be accepted by stakeholders or considered complete. They are a key part of Requirement Analysis because they provide **clear, testable benchmarks** for verifying that the system meets user needs and business objectives.  
+
+### Importance of Acceptance Criteria  
+- Ensures clarity between stakeholders and developers about what “done” means for each feature.  
+- Helps prevent misunderstandings and scope creep during development.  
+- Provides a basis for testing and validating the functionality of the system.  
+- Improves overall quality by setting measurable standards for performance and behavior.  
+
+### Example: Acceptance Criteria for Checkout Feature in Booking Management System  
+**Feature:** Checkout  
+**Acceptance Criteria:**  
+1. The user must be able to review selected bookings before payment.  
+2. The system must allow the user to select a payment method (credit card, PayPal, etc.).  
+3. Payment processing must complete successfully and securely.  
+4. The system must display a confirmation message and booking details after successful payment.  
+5. Users must receive an email confirmation of the booking immediately after checkout.  
+
+By defining acceptance criteria, the development team can ensure that the Checkout feature works exactly as intended and meets stakeholder expectations.  
+
+
 
 

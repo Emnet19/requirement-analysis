@@ -83,6 +83,32 @@ In Requirement Analysis, requirements are typically classified into **Functional
 - The platform should be available 99.9% of the time.  
 - The user interface should be responsive and accessible on both desktop and mobile devices.  
 
+## Use Case Diagrams  
+
+**Use Case Diagrams** are a type of UML (Unified Modeling Language) diagram that visually represent the interactions between **users (actors)** and the **system**. They are commonly used in Requirement Analysis to capture functional requirements and show how different users will interact with the system.  
+
+### Benefits of Use Case Diagrams  
+- Provide a clear, visual representation of system functionality.  
+- Help stakeholders understand system behavior quickly.  
+- Identify all possible interactions between users and the system.  
+- Serve as a foundation for creating detailed functional requirements and system design.  
+
+### Example Use Case Diagram for Booking Management System  
+
+**Actors:**  
+- User  
+- Admin  
+
+**Use Cases:**  
+- Search Properties  
+- Create Account / Login  
+- Make Booking  
+- Cancel Booking  
+- View Booking  
+- Manage Property Listings (Admin)  
+- Send Notifications  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
 
 

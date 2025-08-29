@@ -33,6 +33,31 @@ Requirement Analysis plays a vital role in the **Software Development Life Cycle
 4. **Improved Stakeholder Satisfaction**  
    By accurately capturing and validating requirements, the final product is more likely to meet stakeholder expectations, leading to higher satisfaction and trust.  
 
-In short, Requirement Analysis is critical because it ensures that the right product is built — efficiently, effectively, and in alignment with user and business goals.  
+## Key Activities in Requirement Analysis  
+
+Requirement Analysis involves several structured activities that ensure the software meets stakeholder needs and business goals. The five key activities are:  
+
+- **Requirement Gathering**  
+  - Collecting information about stakeholder needs and expectations through interviews, surveys, questionnaires, and observation.  
+  - Ensures that no essential requirement is overlooked at the start.  
+
+- **Requirement Elicitation**  
+  - Refining and elaborating on gathered requirements using techniques such as brainstorming sessions, prototyping, and workshops.  
+  - Helps uncover hidden or unclear requirements by engaging stakeholders more deeply.  
+
+- **Requirement Documentation**  
+  - Recording the gathered and elicited requirements in clear and structured documents such as Software Requirement Specifications (SRS), use cases, or user stories.  
+  - Serves as a reference point throughout the development process.  
+
+- **Requirement Analysis and Modeling**  
+  - Analyzing requirements for feasibility, consistency, and completeness.  
+  - Creating visual models like use case diagrams, data flow diagrams, or system models to represent requirements clearly.  
+
+- **Requirement Validation**  
+  - Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives.  
+  - Prevents misunderstandings and ensures everyone agrees on the defined requirements before moving forward.  
+
+Together, these activities ensure that the development team builds the right product that satisfies both user needs and business objectives.  
+
 
 
